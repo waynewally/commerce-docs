@@ -18,7 +18,7 @@ composer update --with-dependencies drupal/commerce drupal/commerce_price drupal
 Once the Drupal.org infrastructure issue is resolved, the command will be
 
 ```bash
-composer update drupal/commerce --with-dependencies
+composer update drupal/commerce --with-all-dependencies
 ```
 
 Please note the `--with-dependencies` option. Without this option
